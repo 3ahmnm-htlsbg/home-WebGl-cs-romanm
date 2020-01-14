@@ -41,3 +41,5 @@ None
 * using  GameObject.tranform.position 
 * Build for WebGL
 * Host with Guthub Pages
+
+This Readme ist copied from Kilian Reisinger and edited for my platform. 
